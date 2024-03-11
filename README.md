@@ -22,7 +22,11 @@ This repo is just for me tracking the config on another devices.
 
 ## Usage
 
-Paste all contents in the [home](/home/) folder in your home folder.
+Put all contents in the [home](/home/) folder in your home folder.
+
+> [!NOTE]  
+> For fastfetch config check:
+> https://github.com/cassiofb-dev/fastfetch-config
 
 ## Credits
 
